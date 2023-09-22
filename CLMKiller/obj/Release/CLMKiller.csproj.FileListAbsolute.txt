@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Exclusion\CLMKiller\CLMKiller\bin\Release\CLMKiller.exe.config
+C:\Users\User\Desktop\Exclusion\CLMKiller\CLMKiller\bin\Release\CLMKiller.exe
+C:\Users\User\Desktop\Exclusion\CLMKiller\CLMKiller\bin\Release\CLMKiller.pdb
+C:\Users\User\Desktop\Exclusion\CLMKiller\CLMKiller\obj\Release\CLMKiller.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Exclusion\CLMKiller\CLMKiller\obj\Release\CLMKiller.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Exclusion\CLMKiller\CLMKiller\obj\Release\CLMKiller.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Exclusion\CLMKiller\CLMKiller\obj\Release\CLMKiller.exe
+C:\Users\User\Desktop\Exclusion\CLMKiller\CLMKiller\obj\Release\CLMKiller.pdb
+C:\Users\User\Desktop\Exclusion\CLMKiller\CLMKiller\bin\Release\System.Management.Automation.dll
+C:\Users\User\Desktop\Exclusion\CLMKiller\CLMKiller\obj\Release\CLMKiller.csproj.CopyComplete
