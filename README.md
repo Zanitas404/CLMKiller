@@ -25,7 +25,7 @@ python3 -m http.server 80
 ```
 Run CLMKiller:
 ```
-Start-Job -Scriptblock {".\192_168_20_1_80_finances"} 
+.\192_168_20_1_80_finances
 ```
 
 Enjoy your powershell with FullLanguage mode.
